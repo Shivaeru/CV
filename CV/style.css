@@ -1,0 +1,90 @@
+#img {
+    margin-top: 20px;
+    padding: 20px 20px;
+
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    color: #c6afaf;
+   
+}
+
+header {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    background-image: url(Vintage-HD-Background-Wallpaper-17072.jpg);
+    color: black;
+    
+}
+h1 {
+    
+}
+
+#proverbe {
+    color: black;
+    background-image: url(77a021a182983b860f2fc9298751fad5.jpg);
+    float: right;
+    border: 20px groove #f3d7fb;
+    margin: 20px;
+    padding: 20px;
+    height: auto;
+    width: 600px;
+}
+
+#projet {
+    color: black;
+    float: right;
+    border: 10px outset hotpink;
+    margin: 20px;
+    padding: 20px;
+    height: auto;
+    width: 600px;
+}
+
+h2 {
+    color: black;
+}
+
+
+
+.container {
+    width: 50%;
+    align-items: center;
+    background-color: #ddd; 
+}
+    
+.skills {
+    text-align: right;
+    padding: 10px; 
+    color: black; 
+}
+
+
+.java {
+    width: 20%;
+    background-color: #f3d7fb;
+    
+
+} 
+
+.html {
+    width: 50%;
+    background-color: lightpink;
+} 
+
+.css {
+    width: 40%;
+    background-color: #f3d7fb;
+} 
+
+.javascript {
+    width: 0;
+    background-color: lightpink;
+}
+
+.jquery {
+    width: 0%;
+    background-color: #f3d7fb;
+} 
